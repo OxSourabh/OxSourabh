@@ -1,6 +1,5 @@
 # 💫 About Me: 
 😎 Hello I'm Sourabh Mishra<br>
-🔭 I’m currently working on My Machine Learning Skills<br>
 👯 I’m looking to collaborate on Open Source Projects<br>
 🌱 I’m currently learning Rust<br>
 💬 Ask me about CS , Python , AI-ML<br>
